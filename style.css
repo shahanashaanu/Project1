@@ -1,0 +1,335 @@
+.inbox{
+    /* background-color:black; */
+    height: 50px;
+    margin: 15px 0px;
+    text-align: center;
+    color: gray;
+}
+.cls{
+    color: black;
+}
+
+.inbox1{
+    /* background-color: aquamarine; */
+    height: 400px;
+    margin: 15px 0px;
+    text-align: center;
+     /* font-size: 50PX;  */
+    font-weight: bold;
+    color: white;
+}
+.sec1{
+    background-image: url(brisket-braised-chicken-FT-RECIPE1220-e34facd6aadb494fbd587dc9c440b139.jpg);
+    background-size: center;
+}
+.trans{
+    background-color: rgba(0, 0, 0, 0.425);
+}
+.brisket1{  
+    color: black;
+}
+.menu{
+    border: solid;
+    color:white;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.watch{
+    font-size: 40px;
+}
+.inbox2{
+    /* background-color:black; */
+    height: 100px;
+    margin: 15px 0px;
+    color: white;
+    padding: 15px;
+    text-align: center;
+
+}
+.brisket1{
+    margin: 15px;
+}
+.inbox3{
+    /* background-color: darkturquoise; */
+    height: 400px;
+    margin: 15px 0px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    /* font-size: 50px; */
+    padding-top: 60px;
+}
+.sec2{
+    background-image: url(concrete-flooring-for-restaurant.jpg);
+    background-size: center;
+}
+.trans1{
+    background-color: rgba(0, 0, 0, 0.368);
+}
+.local{
+    font-size: 40px;
+}
+.line{
+    height: 1px;
+    width: 260px;
+    background-color: white;
+    margin: auto;
+}
+.star{
+    font-size: 15px;
+    margin: 5px;
+}
+.locally{
+    margin-top: 20px;
+}
+.find{
+    border: solid;
+    color:white;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: orange;
+}
+.inbox4{
+    /* background-color: cornflowerblue; */
+    height: 400px;
+    margin: 15px 0px;
+    font-size: center;
+    color: white;
+    text-align: center;
+}
+.sec3{
+    background-image: url(various-snacks-buffet-table-with-different-dishes-serving-food-restaurant-party_135427-6967.avif);
+    background-size: center;
+}
+.trans2{
+    background-color: rgba(0, 0, 0, 0.425);
+}
+.catering{
+    font-size: 40px;
+}
+.info{
+    border: solid;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: orange;
+}
+.circle{
+    font-size: 40px;
+}
+.inbox5{
+    /* background-color:wheat;
+    height: 200px; */
+    margin: 15px 0px;
+    padding: 15px;
+    text-align: center;
+}
+.live{
+    margin: 15px;
+}
+.more{
+margin-top: 20px;
+}
+.inbox6{
+    /* background-color: yellow; */
+    height: 400px;
+    margin:15px 0px ;
+    color: white;
+    text-align: center;
+}
+.sec4{
+    background-image: url(StarbucksCoffee-1200x900.png);
+    background-size: cover;
+}
+.trans3{
+    background-color: rgba(0, 0, 0, 0.425);
+}
+.rivers{
+    font-size: 40px;
+    padding-top: 60px;
+}
+.line{
+    height: 1px;
+    width: 350px;
+    background-color: white;
+    margin: auto;
+}
+.shop{
+    border: solid;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: orange;
+}
+.inbox7{
+    /* background-color: lightcoral; */
+    height: 400px;
+    margin: 15px 0px;
+    color: white;
+    text-align: center;
+}
+.sec5{
+    background-image: url(stock-photo-smiling-woman-drinking-coffee-boyfriend.jfif);
+    background-size: cover;
+}
+.trans4{
+    background-color: rgba(0, 0, 0, 0.425);
+}
+.life{
+    font-size: 40px;
+}
+.out{
+    border: solid;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: orange;
+
+}
+.circle{
+    font-size: 40px;
+}
+.inbox8{
+    /* background-color:white; */
+    height: 100px;
+    margin: 15px 0px;
+    color:black;
+    padding: 15px;
+    text-align: center;
+}
+.faith{
+    margin:15px ;
+}
+.river{
+    text-align: center;
+}
+.inbox9{
+    /* background-color: darkseagreen; */
+    height: 400px;
+    margin: 15px 0px;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    padding-top: 60px;
+}
+.sec6{
+    background-image: url(female-shef-herbs-shrimps-dish-professional-cook-decorating-restaurant-kitchen-smiling-82215530.webp);
+    background-size: cover;
+}
+.trans5{
+    background-color: rgba(0, 0, 0, 0.425);
+}
+.beginning{
+    font-size: 40px;
+}
+.line{
+    height: 1px;
+    width: 350px;
+    background-color: white;
+    margin: auto;
+}
+.story{
+    margin-top: 20px;
+}
+.about{
+    border: solid;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: orange;
+
+}
+.inbox10{
+    /* background-color:black; */
+    height: 150px;
+    margin: 15px 0px;
+    color: gray;
+}
+.join{
+    margin-left: 70px;
+    padding-top: 50px;
+    text-align: center;
+}
+.links{
+    font-size: 15px;
+    margin-left:35px;
+}
+.cls1{
+    color:gray;
+    display: inline-block;
+}
+.cls{
+    text-align: center;
+}
+.menu{
+    border: solid;
+    color:white;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 30PX;
+    background-color: orange;
+}
+.phone1{
+    color: gray;
+}
+.right1{
+    color: orange;
+}
+.inbox11{
+    /* background-color:black; */
+    height: 70px;
+    margin: 15px 0px;
+    color: black;
+    padding: 30PX;
+}
+.house{
+    text-align: center;
+}
+.inbox12{
+    background-color: white;
+    height: 60px;
+    margin: 15px 0px ;
+    text-align: center;
+}
+.facebook{
+    margin-left: 50px;
+    color: gray;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+@media(max-width:468px){
+    .inbox8{
+        padding : -4px;
+    }
+    .brisket1{
+        margin: -17px;
+    }
+    .inbox2{
+        margin: 8px;
+        height: 70px;
+    }
+}
+.cart{
+    text-decoration: none;
+    color: gray;
+}
+.cart4{
+    color: orangered;
+}
+    
+
